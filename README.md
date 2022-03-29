@@ -33,6 +33,7 @@ _Client-side:_
 - [Jest](https://jestjs.io/)
 - [Prettier](https://prettier.io/)
 - [React.js](https://reactjs.org/)
+- [react-bootstrap](https://react-bootstrap.github.io/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 _Server-side:_
