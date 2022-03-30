@@ -7,7 +7,8 @@ export default function SummaryForm() {
 
   const checkboxLabel = (
     <span>
-      I agree to the <span style={{ color: 'blue' }}> Terms and Conditions.</span>
+      I agree to the{' '}
+      <span style={{ color: 'blue' }}> Terms and Conditions.</span>
     </span>
   );
 
