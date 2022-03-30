@@ -45,3 +45,9 @@ _Server-side:_
 - [Node.js](https://nodejs.org/en/)
 - [Prettier](https://prettier.io/)
 - [Supertest](https://www.npmjs.com/package/supertest)
+
+_Ops:_
+
+> Very cool tool for testing & validating Github Workflow pipeline code 😎
+
+- [act](https://github.com/nektos/act) 
