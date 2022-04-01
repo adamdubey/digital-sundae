@@ -27,6 +27,7 @@ npm run start
 
 _Client-side:_
 
+- [axios](https://axios-http.com/docs/intro)
 - [Bootstrap 4](https://getbootstrap.com/)
 - [Create-React-App](https://create-react-app.dev/)
 - [ESLint](https://eslint.org/)
