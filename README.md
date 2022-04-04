@@ -27,10 +27,12 @@ npm run start
 
 _Client-side:_
 
+- [axios](https://axios-http.com/docs/intro)
 - [Bootstrap 4](https://getbootstrap.com/)
 - [Create-React-App](https://create-react-app.dev/)
 - [ESLint](https://eslint.org/)
 - [Jest](https://jestjs.io/)
+- [msw](https://www.npmjs.com/package/msw)
 - [Prettier](https://prettier.io/)
 - [React.js](https://reactjs.org/)
 - [react-bootstrap](https://react-bootstrap.github.io/)
