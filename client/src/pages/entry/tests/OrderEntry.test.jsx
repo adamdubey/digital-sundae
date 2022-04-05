@@ -8,7 +8,7 @@ import { server } from '../../../mocks/server';
 import { rest } from 'msw';
 import userEvent from '@testing-library/user-event';
 
-test.skip('handles errors for scoops and toppings routes', async () => {
+test('handles errors for scoops and toppings routes', async () => {
   server.resetHandlers(
     rest.get('http://localhost:3030/scoops', (req, res, ctx) =>
       res(ctx.status(500)),
